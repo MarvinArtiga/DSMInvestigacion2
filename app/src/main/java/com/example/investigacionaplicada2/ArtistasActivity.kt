@@ -1,0 +1,12 @@
+package com.example.investigacionaplicada2
+
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class ArtistasActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_artistas)
+    }
+}
