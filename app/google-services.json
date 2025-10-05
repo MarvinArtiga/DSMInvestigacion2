@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323395799433",
+    "project_id": "investigacionaplicada-fc6c1",
+    "storage_bucket": "investigacionaplicada-fc6c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323395799433:android:71e49a000226750a6b7958",
+        "android_client_info": {
+          "package_name": "com.example.investigacionaplicada2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSTEamAw0L5IHhdvtehY4lRz8AE43xNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

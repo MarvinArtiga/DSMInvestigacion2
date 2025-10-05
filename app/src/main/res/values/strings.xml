@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">InvestigacionAplicada2</string>
+    <string name="app_name">Catálogo Musical</string>
+    <string name="canciones">Canciones</string>
+    <string name="albumes">Álbumes</string>
+    <string name="artistas">Artistas</string>
+    <string name="buscar">Buscar...</string>
+    <string name="filtro_genero">Filtrar por género</string>
+    <string name="filtro_artista">Filtrar por artista</string>
+    <string name="filtro_album">Filtrar por álbum</string>
+    <string name="detalle_cancion">Detalle de Canción</string>
+    <string name="detalle_album">Detalle de Álbum</string>
+    <string name="detalle_artista">Detalle de Artista</string>
+    <string name="volver">Volver</string>
 </resources>
